@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 *pyc
+=======
+*.log
+*.pot
+*.pyc
+local_settings.py
+>>>>>>> 3eb0d2de4032c0a0605103aa79a7e55dd9fae6fd
