@@ -1,0 +1,6 @@
+Django==1.6
+PIL==1.1.7
+argparse==1.2.1
+django-static==1.5.5
+gunicorn==18.0
+wsgiref==0.1.2
